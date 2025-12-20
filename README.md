@@ -4,6 +4,7 @@ A command-line tool that connects to Cisco IOS-XE devices over SSH using **Netmi
 
 Built as hands-on practice for network automation and reliability roles—specifically working with live network devices using Netmiko.
 
+Note - Uses reserved DevNet sandbox (VPN required); mock mode for public demo when lab connection is  unavailable.
 ---
 
 ## Why this project?
